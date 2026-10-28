@@ -13,16 +13,14 @@ A full-stack web application that allows users to discover stores, submit rating
 - View store ratings and account details
 - Password reset functionality
 
-
-
 ### Store Owner Features
-- Access a store-owner dashboard.
-- View information about their store.
-- Monitor store ratings and customer feedback.
-- Track the store's average rating.
-- Manage store details, if permitted by the application.
-
-
+- Access a dedicated Store Owner Dashboard.
+- View owned store details, including store name, address, and email.
+- Monitor the store's average rating and total number of ratings.
+- View rating distribution across 1-star to 5-star ratings.
+- View customer ratings submitted for the store.
+- See customer details, including name and email, along with their rating and rating date.
+- Refresh the dashboard to load updated store rating information.
 
 ### Admin Features
 - Admin dashboard with summary statistics
